@@ -1,0 +1,20 @@
+Copyright 2008 PM
+
+
+Program liczy d³ugoœæ linii obojêtnej jednego typu
+profilu, który znajduje siê na zdjêciu umieszczonym
+w programie, oraz liczy k¹t sprê¿ynowania dla tego
+profilu dla d³u¿szego ramienia profilu wzglêdem krótszego
+
+1. Najpierw nale¿y wybraæ separator
+2. Nastêpnie wpisaæ wszystkie wymiary i materia³
+3. klin¹æ na przycisk "Licz"
+
+
+Uwaga:
+Jako wymiary nale¿y wpisywaæ tylko liczby naturalne, wyj¹tiem
+jest okienko x. Nie nale¿y wpisywaæ do okienek nic innego, jak 
+tylko liczby. W przypadku wpisywania liczby naturalnej nie u¿ywaj 
+kropki 
+
+Kopiowanie dozwolone tylko za zgod¹ autora.  :)
